@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Lora:ital@1&family=Oswald&family=Rubik+Gemstones&family=Young+Serif&display=swap');
+
+ .container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .rw{
+    width: 400px;
+    margin-top: 500px;
+    display: flex;
+    justify-content: center;
+  }
+  h1{
+    text-align: center;
+    font-family: 'Lora', serif;
+  }
+
+  .col-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+
+  .bi{
+    color: aqua;
+  }
+
+  .bi4{
+    color: blue;
+  }
+
+  .bi3{
+    color: blue;
+  }
+
+  .bi2{
+    color: rebeccapurple;
+  }
